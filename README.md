@@ -50,19 +50,6 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=tpinhoda&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=4" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tpinhoda&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&show=reviews,prs_merged"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpinhoda&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=tpinhoda&theme=tokyonight&hide_border=true" />
 </div>
 
